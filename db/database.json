@@ -1,0 +1,248 @@
+{
+  "users": [
+    {
+      "userId": "Igj-hMfQa",
+      "firstName": "Mr",
+      "lastName": "Renter",
+      "email": "renter@kavholm.com",
+      "password": "$2b$10$fDU/gKP8pL5LeozB3WBodu/zJodwplgqqAk2xkMYavFGHCcJ0/IEi",
+      "avatar": "//images.unsplash.com/photo-1519345182560-3f2917c472ef?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1268&q=80"
+    },
+    {
+      "userId": "Igj-hMfQb",
+      "firstName": "Miss",
+      "lastName": "Owner",
+      "email": "owner@kavholm.com",
+      "password": "$2b$10$fDU/gKP8pL5LeozB3WBodu/zJodwplgqqAk2xkMYavFGHCcJ0/IEi",
+      "avatar": "//images.unsplash.com/photo-1506863530036-1efeddceb993?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2741&q=80"
+    },
+    {
+      "userId": "lykvlwVnb",
+      "firstName": "tyt",
+      "lastName": "ere",
+      "email": "chavalcoy@gmail.com",
+      "password": "$2b$10$g50AB3PKo.FQAJ/JVTHwUu2nrclGG.tFXIEFYowMQ4qgEuQphRAPa",
+      "avatar": "//www.gravatar.com/avatar/f140b81ecc8fa3bcc41b697f53e46917?s=400"
+    },
+    {
+      "userId": "kTbd86ZwT",
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "password": "$2b$10$GhWN3xtN0KD/flQlQVIZw.6JmI0o7nIoh.65IIkMArIUt5ihzDIJ.",
+      "avatar": "//www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=400"
+    },
+    {
+      "userId": "d7Dy-YZz6",
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "password": "$2b$10$avozcTo1t9T.9qB7jTCIJeB1BBkssEJTzgz5qm8VwIxKxifc7oGla",
+      "avatar": "//www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=400"
+    },
+    {
+      "userId": "yhOa9EKCe",
+      "firstName": "F",
+      "lastName": "L",
+      "email": "fl@gmail.com",
+      "password": "$2b$10$AGu5GW5vepkACJ8eqsvtI.XXC/lzA3XiSrcrI3PB2z64l36VxxgFK",
+      "avatar": "//www.gravatar.com/avatar/bb1c4a665c0e93c5a6dfd6af0c48ad30?s=400"
+    },
+    {
+      "userId": "jWIIp-mLi",
+      "firstName": "shaam",
+      "lastName": "T",
+      "email": "shaamt@shaamt.com",
+      "password": "$2b$10$43zRfg5y1OjpbuID/3sUmODtPG7fELF94S.ylBetE1880Lr/soKne",
+      "avatar": "//www.gravatar.com/avatar/112224eabc23f42df7e2c168019a334c?s=400"
+    }
+  ],
+  "listings": [
+    {
+      "id": "10",
+      "authorId": "Igj-hMfQb",
+      "location": "Atlanta GA",
+      "title": "Retail space in Peachtree Mall",
+      "description": "Retail space for rent in the Peachtree Mall.",
+      "source": "https://unsplash.com/photos/i8u5gz-ZeI",
+      "image": "https://images.unsplash.com/photo-1530738472658-404f693bd4b2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80",
+      "price": {
+        "amount": 10000,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "21",
+      "authorId": "Igj-hMfQb",
+      "location": "United States",
+      "title": "Peninsula",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur finibus, ligula eu eleifend consequat, sem metus dignissim purus, et sodales eros ligula non lacus. Maecenas lacinia nibh at semper efficitur. Fusce tincidunt, mi non tincidunt faucibus, neque velit hendrerit tortor, non fermentum nisi tortor at dui. Fusce porta, metus ut facilisis pellentesque, turpis sapien scelerisque leo, quis lacinia felis lectus rutrum turpis.",
+      "source": "https://unsplash.com/photos/6DqRIISLZMQ",
+      "image": "https://images.unsplash.com/photo-1505081598304-3bee85f930d4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2702&q=80",
+      "price": {
+        "amount": 12500,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "26",
+      "authorId": "Igj-hMfQb",
+      "location": "Singapore",
+      "title": "Skyline view in Singapore",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur finibus, ligula eu eleifend consequat, sem metus dignissim purus, et sodales eros ligula non lacus. Maecenas lacinia nibh at semper efficitur. Fusce tincidunt, mi non tincidunt faucibus, neque velit hendrerit tortor, non fermentum nisi tortor at dui. Fusce porta, metus ut facilisis pellentesque, turpis sapien scelerisque leo, quis lacinia felis lectus rutrum turpis.",
+      "source": "",
+      "image": "https://images.unsplash.com/photo-1533052494972-63e07f31e2a1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3450&q=80",
+      "price": {
+        "amount": 17400,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "11",
+      "authorId": "Igj-hMfQb",
+      "location": "Mexico",
+      "title": "Sunny studio in Mexico City",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur finibus, ligula eu eleifend consequat, sem metus dignissim purus, et sodales eros ligula non lacus. Maecenas lacinia nibh at semper efficitur. Fusce tincidunt, mi non tincidunt faucibus, neque velit hendrerit tortor, non fermentum nisi tortor at dui. Fusce porta, metus ut facilisis pellentesque, turpis sapien scelerisque leo, quis lacinia felis lectus rutrum turpis.",
+      "source": "https://unsplash.com/photos/ear8VOL7x8k",
+      "image": "https://images.unsplash.com/photo-1537304119-36263d2db05b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1575&q=80",
+      "price": {
+        "amount": 17400,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "6",
+      "authorId": "Igj-hMfQb",
+      "location": "Denmark",
+      "title": "Light-filled loft in Copenhagen",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur finibus, ligula eu eleifend consequat, sem metus dignissim purus, et sodales eros ligula non lacus. Maecenas lacinia nibh at semper efficitur. Fusce tincidunt, mi non tincidunt faucibus, neque velit hendrerit tortor, non fermentum nisi tortor at dui. Fusce porta, metus ut facilisis pellentesque, turpis sapien scelerisque leo, quis lacinia felis lectus rutrum turpis.",
+      "source": "https://unsplash.com/photos/leDo7IX1ycM",
+      "image": "https://images.unsplash.com/photo-1549488497-256795402cc0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1534&q=80",
+      "price": {
+        "amount": 17400,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "12",
+      "authorId": "Igj-hMfQb",
+      "location": "United States",
+      "title": "Pasis in Palm Springs",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur finibus, ligula eu eleifend consequat, sem metus dignissim purus, et sodales eros ligula non lacus. Maecenas lacinia nibh at semper efficitur. Fusce tincidunt, mi non tincidunt faucibus, neque velit hendrerit tortor, non fermentum nisi tortor at dui. Fusce porta, metus ut facilisis pellentesque, turpis sapien scelerisque leo, quis lacinia felis lectus rutrum turpis.",
+      "source": "https://unsplash.com/photos/CIMbOMUewH8",
+      "image": "https://images.unsplash.com/photo-1540321975033-2fff3a5a3945?ixlib=rb-1.2.1&auto=format&fit=crop&w=2700&q=80",
+      "price": {
+        "amount": 17400,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "15",
+      "authorId": "Igj-hMfQb",
+      "location": "Norway",
+      "title": "Home in Oslo",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur finibus, ligula eu eleifend consequat, sem metus dignissim purus, et sodales eros ligula non lacus. Maecenas lacinia nibh at semper efficitur. Fusce tincidunt, mi non tincidunt faucibus, neque velit hendrerit tortor, non fermentum nisi tortor at dui. Fusce porta, metus ut facilisis pellentesque, turpis sapien scelerisque leo, quis lacinia felis lectus rutrum turpis.",
+      "source": "https://unsplash.com/photos/5i0GnoTTjSE",
+      "image": "https://images.unsplash.com/photo-1481277542470-605612bd2d61?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2590&q=80",
+      "price": {
+        "amount": 17400,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "18",
+      "authorId": "Igj-hMfQb",
+      "location": "Spain",
+      "title": "Escape in Mallorca",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur finibus, ligula eu eleifend consequat, sem metus dignissim purus, et sodales eros ligula non lacus. Maecenas lacinia nibh at semper efficitur. Fusce tincidunt, mi non tincidunt faucibus, neque velit hendrerit tortor, non fermentum nisi tortor at dui. Fusce porta, metus ut facilisis pellentesque, turpis sapien scelerisque leo, quis lacinia felis lectus rutrum turpis.",
+      "source": "https://unsplash.com/photos/4ojhpgKpS68",
+      "image": "https://images.unsplash.com/photo-1523217582562-09d0def993a6?ixlib=rb-1.2.1&auto=format&fit=crop&w=2200&q=80",
+      "price": {
+        "amount": 17400,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "23",
+      "authorId": "Igj-hMfQb",
+      "location": "Greece",
+      "title": "Heaven in Santorini",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur finibus, ligula eu eleifend consequat, sem metus dignissim purus, et sodales eros ligula non lacus. Maecenas lacinia nibh at semper efficitur. Fusce tincidunt, mi non tincidunt faucibus, neque velit hendrerit tortor, non fermentum nisi tortor at dui. Fusce porta, metus ut facilisis pellentesque, turpis sapien scelerisque leo, quis lacinia felis lectus rutrum turpis.",
+      "source": "https://unsplash.com/photos/aapSemzfsOk",
+      "image": "https://images.unsplash.com/photo-1469796466635-455ede028aca?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2700&q=80",
+      "price": {
+        "amount": 17400,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "24",
+      "authorId": "Igj-hMfQb",
+      "location": "United States",
+      "title": "Just Palm Springs",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur finibus, ligula eu eleifend consequat, sem metus dignissim purus, et sodales eros ligula non lacus. Maecenas lacinia nibh at semper efficitur. Fusce tincidunt, mi non tincidunt faucibus, neque velit hendrerit tortor, non fermentum nisi tortor at dui. Fusce porta, metus ut facilisis pellentesque, turpis sapien scelerisque leo, quis lacinia felis lectus rutrum turpis.",
+      "source": "https://unsplash.com/photos/DI5eFSYszy0",
+      "image": "https://images.unsplash.com/photo-1556172944-dc52d5ba8016?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2767&q=80",
+      "price": {
+        "amount": 17400,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "25",
+      "authorId": "Igj-hMfQb",
+      "location": "United States",
+      "title": "More Palm Springs",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur finibus, ligula eu eleifend consequat, sem metus dignissim purus, et sodales eros ligula non lacus. Maecenas lacinia nibh at semper efficitur. Fusce tincidunt, mi non tincidunt faucibus, neque velit hendrerit tortor, non fermentum nisi tortor at dui. Fusce porta, metus ut facilisis pellentesque, turpis sapien scelerisque leo, quis lacinia felis lectus rutrum turpis.",
+      "source": "https://unsplash.com/photos/PEaAKHpBTzw",
+      "image": "https://images.unsplash.com/photo-1554094830-addc7e887420?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2700&q=80",
+      "price": {
+        "amount": 17400,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "27",
+      "authorId": "Igj-hMfQb",
+      "location": "United States",
+      "title": "Utah dessert",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur finibus, ligula eu eleifend consequat, sem metus dignissim purus, et sodales eros ligula non lacus. Maecenas lacinia nibh at semper efficitur. Fusce tincidunt, mi non tincidunt faucibus, neque velit hendrerit tortor, non fermentum nisi tortor at dui. Fusce porta, metus ut facilisis pellentesque, turpis sapien scelerisque leo, quis lacinia felis lectus rutrum turpis.",
+      "source": "https://unsplash.com/photos/V7HWR5o9BeY",
+      "image": "https://images.unsplash.com/photo-1539437829697-1b4ed5aebd19?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1534&q=80",
+      "price": {
+        "amount": 17400,
+        "currency": "USD"
+      }
+    }
+  ],
+  "transactions": [
+    {
+      "id": "Sv72D2lRs",
+      "listingId": "10",
+      "bookingUserId": "kTbd86ZwT",
+      "totalAmount": "19140",
+      "currency": "USD"
+    },
+    {
+      "id": "3Ahle4DfY",
+      "listingId": "10",
+      "bookingUserId": "kTbd86ZwT",
+      "totalAmount": "19140",
+      "currency": "USD"
+    },
+    {
+      "id": "rSJ6_BvP-",
+      "listingId": "21",
+      "bookingUserId": "Igj-hMfQb",
+      "totalAmount": "19140",
+      "currency": "USD"
+    },
+    {
+      "id": "oUHqQzeYV",
+      "listingId": "21",
+      "bookingUserId": "Igj-hMfQb",
+      "totalAmount": "19140",
+      "currency": "USD"
+    }
+  ]
+}
